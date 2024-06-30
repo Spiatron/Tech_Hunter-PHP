@@ -1,4 +1,4 @@
-************************************************************************Deployment Instructions************************************************************************
+***********************************************Deployment Instructions***********************************************
 
 1. Extract the Project Files:
          •Extract the contents of the ecom.zip file to your local machine.
